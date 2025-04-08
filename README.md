@@ -8,19 +8,37 @@ Currently based in Berlin, I specialize in **Salesforce Commerce Cloud**, **fron
 
 ---
 
-## 🛠️ Skills & Tech
+## 🛠️ Tech Stack
 
-**Frontend**  
-`JavaScript` `TypeScript` `React` `Angular` `HTML5` `CSS (Sass)`
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
-**Backend**  
-`PHP` `Python` `MySQL`
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=fff)
 
-**eCommerce**  
-`SFCC (SFRA)` `Hybris` `Amplience`
+### 🛒 eCommerce
+![Salesforce Commerce Cloud](https://img.shields.io/badge/SFCC-00A1E0?style=flat&logo=salesforce&logoColor=fff)
+![Hybris](https://img.shields.io/badge/Hybris-333?style=flat&logo=sap&logoColor=fff)
 
-**Tools**  
-`Git` `Bitbucket` `Docker` `Kubernetes` `AWS Lambda`
+### ☁️ Tools & Platforms
+![Amplience](https://img.shields.io/badge/Amplience-000000?style=flat&logo=amplience&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+
 
 ---
 
