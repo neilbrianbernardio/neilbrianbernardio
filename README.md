@@ -57,7 +57,7 @@ Currently based in Berlin, I specialize in **Salesforce Commerce Cloud**, **fron
 ---
 ## 📫 Let's Get in Touch
 
-📍 Berlin, Germany  
+📍 Cebu, Philippines
 📧 [neilbrianbernardio@yahoo.com](mailto:neilbrianbernardio@yahoo.com)  
 🔗 [LinkedIn](https://linkedin.com/in/neilbrian-bernardio)
 
